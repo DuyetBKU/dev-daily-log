@@ -1,4 +1,4 @@
-# Engineering Log
+# Engineering Log 
 
 Daily software development and learning log covering coding and debugging progress.
 
